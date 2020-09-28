@@ -1,42 +1,40 @@
-
-@include-when-export url(https://fonts.google.com/specimen/Roboto?selection.family=Roboto:400,400i,700,700i);
-
 @font-face {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: normal;
-    src: local('Roboto Regular'),url('./resume/Roboto-Regular.ttf') format('truetype');
+    src: local('Roboto Regular'),url('resume/Roboto-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Roboto';
     font-style: italic;
     font-weight: normal;
-    src: local('Roboto Italic'),url('./resume/Roboto-Italic.ttf') format('truetype');
+    src: local('Roboto Italic'),url('resume/Roboto-Italic.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: bold;
-    src: local('Roboto bold'),url('./resume/Roboto-Bold.ttf') format('truetype');
+    src: local('Roboto bold'),url('resume/Roboto-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Roboto';
     font-style: italic;
     font-weight: bold;
-    src: local('Roboto Bold Italic'),url('./resume/Roboto-BoldItalic.ttf') format('truetype');
+    src: local('Roboto Bold Italic'),url('resume/Roboto-BoldItalic.ttf') format('truetype');
 }
 
 body {
-    font-family: "Roboto", "Helvetica Neue", Helvetica Arial, sans-serif;
+    font-family: "Roboto", "Helvetica Neue", "Helvetica Arial", sans-serif;
     max-width: 860px;
     margin: 0 auto;
     background: #FFFFFF;
     /*padding: 10px 10px 10px 10px;*/
     padding-top: 30px;
 }
+
 #write {
     max-width: 860px;
     margin: 0 auto;
