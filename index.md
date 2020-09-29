@@ -4,15 +4,6 @@ title: Curriculum Vitae
 
 ---
 
-
----
-
-> *Interested in exploring new possibilities and solving (complex) problems;*
->
-> *I aim to find the most practical solution.*
-
----
-
 ## Education
 
 |             |                   |                                                              |                                                              |
