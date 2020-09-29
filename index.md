@@ -39,9 +39,7 @@ title: Curriculum Vitae
 ## Extra activities
 
 - **Summerschool "Big Data Analytics"**, KTH Executive School; 2020 <br/>
-  
   <p class="text_activity">Intensive two weeks, wherein I developed a business plan with coaching of professionals. My idea was to measure sewer lines more extensively to prevent blockages and sewer floods; this could be measured by putting sensors underneath manhole covers.</p>
 
 - **Vice President, Dies Comité**, DSCC/DJCR 'Audentis et Virtutis'; 2016, december - 2017, maart
-
   <p class="text_activity">  Organized two weeks full of activities for ± 300 students, including a gala in a manor house. I took care of the communication (internal and external), general structure and management, and the website. </p>
