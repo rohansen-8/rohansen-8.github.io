@@ -8,9 +8,9 @@ title: Curriculum Vitae
 
 |  Year       |         Degree    |                     Field of study                                  |          University                          |
 | ----------- | ----------------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| 2019 - 2021 | <u>Master</u>     | **Data Science**, dual degree                                | Eindhoven University of Technology <br />Technical University of Madrid |
-| 2018 - 2019 | <u>Pre-Master</u> | **Technical Computer Science**                               | University of Twente                                         |
-| 2015 - 2018 | <u>Bachelor</u>   | **Mechanical Engineering**<br />With **Electrical Engineering** minor | University of Twente<br />Hanyang University (한양대학교)    |
+| 2019 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2021 | <u>Master</u>     | **Data Science**, dual degree                                | Eindhoven University of Technology <br />Technical University of Madrid |
+| 2018 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2019 | <u>Pre-Master</u> | **Technical Computer Science**                               | University of Twente                                         |
+| 2015 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2018 | <u>Bachelor</u>   | **Mechanical Engineering**<br />With **Electrical Engineering** minor | University of Twente<br />Hanyang University (한양대학교)    |
 
 ## Skills
 
@@ -30,7 +30,7 @@ title: Curriculum Vitae
 
 ## Experience
 
-&emsp;:**&ensp; Teaching Assistant**, Eindhoven University of Technology;  2020, Quartile 1
+ - **Teaching Assistant**, Eindhoven University of Technology;  2020, Quartile 1
   <p class="text_experience">Helped with two courses for twelve hours per week. My main tasks were to hold online meetings with a number of student groups,  to coach them in developing arguments for and against a certain novel technology, and to help students in guided self-study sessions with solving questions. </p>
 
 
@@ -39,5 +39,5 @@ title: Curriculum Vitae
 - **Summerschool "Big Data Analytics"**, KTH Executive School; 2020 <br/>
   <p class="text_activity">Intensive two weeks, wherein I developed a business plan with coaching of professionals. My idea was to measure sewer lines more extensively to prevent blockages and sewer floods; this could be measured by putting sensors underneath manhole covers.</p>
 
-- **Vice President, Dies Comité**, DSCC/DJCR 'Audentis et Virtutis'; 2016, december - 2017, march
-  <p class="text_activity">  Organized two weeks full of activities for ± 300 students, including a gala in a manor house. I took care of the communication (internal and external), general structure and management, and the website. </p>
+- **Vice President, Dies Committee**, DSCC/DJCR 'Audentis et Virtutis'; 2016, December - 2017, March
+  <p class="text_activity">Organized two weeks full of activities for ± 300 students, including a gala in a manor house. I took care of the communication (internal and external), general structure and management, and the website. </p>
