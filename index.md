@@ -6,7 +6,7 @@ title: Curriculum Vitae
 
 ## Education
 
-|             |                   |                                                              |                                                              |
+|  Year       |         Degree    |                     Field of study                                  |          University                          |
 | ----------- | ----------------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
 | 2019 - 2021 | <u>Master</u>     | **Data Science**, dual degree                                | Eindhoven University of Technology <br />Technical University of Madrid |
 | 2018 - 2019 | <u>Pre-Master</u> | **Technical Computer Science**                               | University of Twente                                         |
@@ -16,25 +16,23 @@ title: Curriculum Vitae
 
 - Proficient in **Dutch** (native), **English** (fluent) and **German** (reasonable)
 
+- Experience with:
+  <p class="skill"><b>Innovation and entrepeneurship:</b> Pitching, Business Model Canvas, Design Thinking and Lean Startup</p>
+  <p class="skill"><b>Operating systems:</b> Windows, Linux (Debian, Ubuntu, Arch) and Mac</p>
+  <p class="skill"><b>Programming languages:</b> Python, Java, MATLAB, Haskell,  SAS and R </p>
+  <p class="skill"><b>Web Development:</b> HTML, CSS, PHP and JavaScript</p>
+  <p class="skill"><b>Databases:</b> XML, SQL and JSON</p>
+  <p class="skill"><b>Version control:</b> Git and SVN </p>
+  <p class="skill"><b>CAD/CAE modeling:</b> SolidWorks</p>
+  <p class="skill"><b>Process optimization:</b> Lean Manufacturing and Six Sigma</p>
+
 - Communicative  strong, socially skilled and enthusiastic! 
 
-- Experience with 
+## Experience
 
-  - <span class="skill">**Innovation and entrepeneurship:** Pitching, Business Model Canvas, Design Thinking and Lean Startup</span>
+&emsp;:**&ensp; Teaching Assistant**, Eindhoven University of Technology;  2020, Quartile 1
+  <p class="text_experience">Helped with two courses for twelve hours per week. My main tasks were to hold online meetings with a number of student groups,  to coach them in developing arguments for and against a certain novel technology, and to help students in guided self-study sessions with solving questions. </p>
 
-  - <span class="skill">**Operating systems:** Windows, Linux (Debian, Ubuntu, Arch) and Mac</span>
-
-  - <span class="skill">**Programming languages:** Python, Java, MATLAB, Haskell,  SAS and R </span>
-
-  - <span class="skill">**Web Development:** HTML, CSS, PHP and JavaScript</span>
-
-  - <span class="skill">**Databases:** XML, SQL and JSON</span>
-
-  - <span class="skill">**Version control:** Git and SVN </span>
-
-  - <span class="skill">**CAD/CAE modeling:** SolidWorks</span>
-
-  - <span class="skill">**Process optimization:** Lean Manufacturing and Six Sigma</span>
 
 ## Extra activities
 
