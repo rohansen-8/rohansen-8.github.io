@@ -31,7 +31,7 @@ title: Curriculum Vitae
 ## Experience
 
  - **Teaching Assistant**, Eindhoven University of Technology;  2020, Quartile 1
-  <p class="text_experience">Helped with two courses for twelve hours per week. My main tasks were to hold online meetings with a number of student groups,  to coach them in developing arguments for and against a certain novel technology, and to help students in guided self-study sessions with solving questions. </p>
+    <p class="text_experience">Helped with two courses for twelve hours per week. My main tasks were to hold online meetings with a number of student groups,  to coach them in developing arguments for and against a certain novel technology, and to help students in guided self-study sessions with solving questions. </p>
 
 
 ## Extra activities
