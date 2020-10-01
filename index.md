@@ -8,9 +8,9 @@ title: Curriculum Vitae
 
 |  Year       |         Degree    |                     Field of study                                  |          University                          |
 | ----------- | ----------------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| <p style="text-align: center;"> 2021 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2019  </p>| <u>Master</u>     | **Data Science**, dual degree                                | Eindhoven University of Technology <br />Technical University of Madrid |
-| <p style="text-align: center;">2019 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2018 </p> | <u>Pre-Master</u> | **Technical Computer Science**                               | University of Twente                                         |
-| <p style="text-align: center;">2018 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2015 </p> | <u>Bachelor</u>   | **Mechanical Engineering**<br />With **Electrical Engineering** minor | University of Twente<br />Hanyang University (한양대학교)    |
+| <p class="edu-year"> 2021 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2019  </p>| <u>Master</u>     | **Data Science**, dual degree                                | Eindhoven University of Technology <br />Technical University of Madrid |
+| <p class="edu-year">2019 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2018 </p> | <u>Pre-Master</u> | **Technical Computer Science**                               | University of Twente                                         |
+| <p class="edu-year">2018 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2015 </p> | <u>Bachelor</u>   | **Mechanical Engineering**<br />With **Electrical Engineering** minor | University of Twente<br />Hanyang University (한양대학교)    |
 
 ## Skills
 
