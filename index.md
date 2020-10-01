@@ -7,10 +7,10 @@ title: Curriculum Vitae
 ## Education
 
 |  Year       |         Degree    |                     Field of study                                  |          University                          |
-| ----------- | ----------------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| <span class="edu-year"> 2021 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2019  </span>| <u>Master</u>     | **Data Science**, dual degree                                | Eindhoven University of Technology <br />Technical University of Madrid |
-| <span class="edu-year">2019 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2018 </span> | <u>Pre-Master</u> | **Technical Computer Science**                               | University of Twente                                         |
-| <span class="edu-year">2018 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2015 </span> | <u>Bachelor</u>   | **Mechanical Engineering**<br />With **Electrical Engineering** minor | University of Twente<br />Hanyang University (한양대학교)    |
+| :-----------: | ----------------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
+| 2021 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2019 | <u>Master</u>     | **Data Science**, dual degree                                | Eindhoven University of Technology <br />Technical University of Madrid |
+| 2019 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2018 | <u>Pre-Master</u> | **Technical Computer Science**                               | University of Twente                                         |
+| 2018 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2015 | <u>Bachelor</u>   | **Mechanical Engineering**<br />With **Electrical Engineering** minor | University of Twente<br />Hanyang University (한양대학교)    |
 
 ## Skills
 
