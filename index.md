@@ -16,15 +16,34 @@ title: Curriculum Vitae
 
 - Proficient in **Dutch** (native), **English** (fluent) and **German** (reasonable)
 - Experience with:
-  <p class="skill"><b>Innovation and entrepeneurship:</b> Pitching, Business Model Canvas, Design Thinking and Lean Startup <br>
-  <b>Operating systems:</b> Windows, Linux (Debian, Ubuntu, Arch) and Mac <br>
-  <b>Programming languages:</b> Python, Java, MATLAB, Haskell,  SAS and R <br>
-  <b>Web Development:</b> HTML, CSS, PHP and JavaScript <br>
-  <b>Databases:</b> XML, SQL and JSON <br>
-  <b>Version control:</b> Git and SVN <br>
-  <b>CAD/CAE modeling:</b> SolidWorks <br>
-  <b>Process optimization:</b> Lean Manufacturing and Six Sigma <br>
-  <b>Text languages:</b> MarkDown, LaTeX and Microsoft Office suit</p>
+  <dl>
+  <dt>Innovation and entrepeneurship</dt> 
+  <dd>Pitching, Business Model Canvas, Design Thinking and Lean Startup </dd>
+  
+  <dt>Operating systems</dt>
+  <dd> Windows, Linux (Debian, Ubuntu, Arch) and Mac </dd>
+  
+  <dt>Programming languages</dt> 
+  <dd>Python, Java, MATLAB, Haskell,  SAS and R </dd>
+  
+  <dt>Web Development</dt>
+  <dd>HTML, CSS, PHP and JavaScript </dd>
+  
+  <dt>Databases</dt>
+  <dd>XML, SQL and JSON </dd>
+  
+  <dt>Version control</dt>
+  <dd>Git and SVN </dd>
+  
+  <dt>CAD/CAE modeling</dt>
+  <dd>SolidWorks </dd>
+  
+  <dt>Process optimization</dt>
+  <dd>Lean Manufacturing and Six Sigma </dd>
+  
+  <dt>Text languages</dt>
+  <dd>MarkDown, LaTeX and Microsoft Office suit </dd>
+  </dl>
 - Communicative  strong, socially skilled and enthusiastic! 
 
 ## Work experience
