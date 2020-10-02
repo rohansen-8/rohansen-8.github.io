@@ -6,16 +6,15 @@ title: Curriculum Vitae
 
 ## Education
 
-|  Year       |         Degree    |                     Field of study                                  |          University                          |
-| :-----------: | ----------------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| 2021 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2019 | <u>Master</u>     | **Data Science**, dual degree                                | Eindhoven University of Technology <br />Technical University of Madrid |
-| 2019 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2018 | <u>Pre-Master</u> | **Technical Computer Science**                               | University of Twente                                         |
+| Year | Degree | Field of study | University |
+| :----: | :------ | :-------------- | :---------- |
+| 2021 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2019 | <u>Master</u> | **Data Science**, dual degree | Eindhoven University of Technology <br />Technical University of Madrid |
+| 2019 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2018 | <u>Pre-Master</u> | **Technical Computer Science**| University of Twente |
 | 2018 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2015 | <u>Bachelor</u>   | **Mechanical Engineering**<br />With **Electrical Engineering** minor | University of Twente<br />Hanyang University (한양대학교)    |
 
 ## Skills
 
 - Proficient in **Dutch** (native), **English** (fluent) and **German** (reasonable)
-
 - Experience with:
   <p class="skill"><b>Innovation and entrepeneurship:</b> Pitching, Business Model Canvas, Design Thinking and Lean Startup <br>
   <b>Operating systems:</b> Windows, Linux (Debian, Ubuntu, Arch) and Mac <br>
@@ -26,7 +25,6 @@ title: Curriculum Vitae
   <b>CAD/CAE modeling:</b> SolidWorks <br>
   <b>Process optimization:</b> Lean Manufacturing and Six Sigma <br>
   <b>Text languages:</b> MarkDown, LaTeX and Microsoft Office suit</p>
-
 - Communicative  strong, socially skilled and enthusiastic! 
 
 ## Work experience
