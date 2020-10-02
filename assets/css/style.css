@@ -3,6 +3,4 @@
 
 @import "{{ site.theme }}";
 
-.edu-year {
-    text-align: center;
-}
+ul { padding-left: 1.2em; }
