@@ -11,6 +11,12 @@ ul {
   footer {
     text-align: center;
   }
+  header {
+    padding: 0px;
+    width: 270px;
+    margin-left: auto;
+    margin-right: auto;
+ }
 }
 
 @media print, screen and (max-height: 565px) {
