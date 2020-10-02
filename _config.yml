@@ -1,5 +1,7 @@
 title: Dim Hoogeveen
-logo: /assets/img/logo.png
 description: The online resume (CV) of me (Dim Hoogeveen). I mainly created this to make myself more visible to everyone online.
-google_analytics: UA-179304920-1
 theme: jekyll-theme-minimal
+google_analytics: UA-179304920-1
+
+logo: /assets/img/logo_transparent.png
+profile_picture: assets/img/DimProfilePicture.jpg
