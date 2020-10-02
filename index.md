@@ -29,16 +29,24 @@ title: Curriculum Vitae
 
 - Communicative  strong, socially skilled and enthusiastic! 
 
-## Experience
+## Work experience
 
- - **Teaching Assistant**, Eindhoven University of Technology;  2020, Quartile 1
+ - **Teaching Assistant**, Eindhoven University of Technology;  2020, Quartile 1 <br>
     <p class="text_experience">Helped with two courses for twelve hours per week. My main tasks were to hold online meetings with a number of student groups,  to coach them in developing arguments for and against a certain novel technology, and to help students in guided self-study sessions with solving questions. </p>
 
 
 ## Extra activities
 
-- **Summerschool "Big Data Analytics"**, KTH Executive School; 2020 <br/>
+- **Summerschool "Big Data Analytics"**, KTH Executive School; 2020 <br>
   <p class="text_activity">Intensive two weeks, wherein I developed a business plan with coaching of professionals. My idea was to measure sewer lines more extensively to prevent blockages and sewer floods; this could be measured by putting sensors underneath manhole covers.</p>
 
-- **Vice President, Dies Committee**, DSCC/DJCR 'Audentis et Virtutis'; 2016, December - 2017, March
+- **Vice President, Dies Committee**, DSCC/DJCR 'Audentis et Virtutis'; 2016, December - 2017, March <br>
   <p class="text_activity">Organized two weeks full of activities for ± 300 students, including a gala in a manor house. I took care of the communication (internal and external), general structure and management, and the website. </p>
+  
+### Hackathons
+
+- **From Farm to Fork**, EIT Deephack; 2020 <br>
+  <p class="text_hackathon">Project Farmony aimed to bridge the gap between urban and rural lif with the help of a digital fun-farming experience. The idea was to crowdfund farmland in the user's area. The user could track the progress in a similiar fashion as for example [Farmville](https://en.wikipedia.org/wiki/FarmVille). After the harvest, the user gets some of this produce. The farmer would receive a steady predictable income and the global supply chain would be shortened.</p>
+
+- **Data against COVID-19**, EIT Deephack; 2020 <br>
+  <p class="text_hackathon">Project Modum aimed to tie the economic effects to the measures taken in response to the COVID-19 pandemic. To this end, we developed three complementary aspects: 1) GDP differences (after measures were taken) to train a prediction model 2) web scraping of news on which the sentiment of economic articles was found and 3) a dashboard in React to showcase this information. </p>
