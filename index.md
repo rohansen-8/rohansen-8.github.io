@@ -15,6 +15,7 @@ title: Curriculum Vitae
 ## Skills
 
 - Proficient in **Dutch** (native), **English** (fluent) and **German** (reasonable)
+- Communicative  strong, socially skilled and enthusiastic! 
 - Experience with:
   <dl>
   <dt>Innovation and entrepeneurship</dt> 
@@ -44,7 +45,6 @@ title: Curriculum Vitae
   <dt>Text languages</dt>
   <dd>MarkDown, LaTeX and Microsoft Office suit </dd>
   </dl>
-- Communicative  strong, socially skilled and enthusiastic! 
 
 ## Work experience
 
