@@ -12,3 +12,13 @@ ul {
     text-align: center;
   }
 }
+
+@media print, screen and (max-height: 565px) {
+  footer {
+  float:right;
+  position: relative;
+  width: 500px;
+  margin-top: 0px;
+  text-align: center;
+  }
+}
