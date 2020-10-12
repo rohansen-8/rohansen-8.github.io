@@ -63,7 +63,7 @@ title: Curriculum Vitae
 ### Hackathons
 
 - **Satellite Image Analytics**, JunctionX Seoul; 2020 <br>
-  <p class="text_hackathon"><i class="fas fa-medal"></i><strong>Track winner</strong>; project <a href="https://github.com/bonomoon/SUMO">SUMO</a>(SUstainability MOnitoring) makes it able to search for factories and check where their waste is actually going by using satellite images. It analyses the landfill locations and checks if they are actually increasing more than they should. This tool is free to use for transparency and more in-depth analysis is a paid feature for companies to further investigate their manufacturers and suppliers.</p>
+  <p class="text_hackathon"><i class="fas fa-award"></i><strong> 1st prize</strong>; project <a href="https://github.com/bonomoon/SUMO">SUMO</a>(SUstainability MOnitoring) makes it able to search for factories and check where their waste is actually going by using satellite images. It analyses the landfill locations and checks if they are actually increasing more than they should. This tool is free to use for transparency and more in-depth analysis is a paid feature for companies to further investigate their manufacturers and suppliers.</p>
 
 - **From Farm to Fork**, EIT Deephack; 2020 <br>
   <p class="text_hackathon">Project Farmony aimed to bridge the gap between urban and rural life with the help of a digital fun-farming experience. The idea was to crowdfund farmland in the user's area. The user could track the progress in a similiar fashion as for example Farmville. After the harvest, the user gets some of this produce. The farmer would receive a steady predictable income and the global supply chain would be shortened.</p>
