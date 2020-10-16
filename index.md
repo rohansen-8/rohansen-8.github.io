@@ -57,7 +57,7 @@ title: Curriculum Vitae
 
 ## Extra activities
 
-- **Summerschool "Big Data Analytics"**, KTH Executive School; 2020 <br>
+- **Summerschool "Big Data Analytics"**, KTH Executive School; 2020, August <br>
   <p class="text_activity">Intensive two weeks, wherein I developed a business plan with coaching of professionals. My idea was to measure sewer lines more extensively to prevent blockages and sewer floods; this could be measured by putting sensors underneath manhole covers.</p>
 
 - **Vice President, Dies Committee**, DSCC/DJCR 'Audentis et Virtutis'; 2016, December - 2017, March <br>
@@ -65,11 +65,11 @@ title: Curriculum Vitae
   
 ### Hackathons
 
-- **Satellite Image Analytics**, JunctionX Seoul; 2020 <br>
+- **Satellite Image Analytics**, JunctionX Seoul; 2020, October <br>
   <p class="text_hackathon"><i class="fas fa-award"></i><strong> 1st prize</strong>; project <a href="https://github.com/bonomoon/SUMO">SUMO</a>(SUstainability MOnitoring) makes it able to search for factories and check where their waste is actually going by using satellite images. It analyses the landfill locations and checks if they are actually increasing more than they should. This tool is free to use for transparency and more in-depth analysis is a paid feature for companies to further investigate their manufacturers and suppliers. I was the project manager of the team and, therefore, coordinated tasks. Besides that, I defined the problem, solution and business; which I <a href="https://drive.google.com/file/d/1EsYEhJjpHUl9OcyRlOcsemfFxan95qos/view">pitched</a>.</p>
 
-- **From Farm to Fork**, EIT Deephack; 2020 <br>
+- **From Farm to Fork**, EIT Deephack; 2020, June <br>
   <p class="text_hackathon">Project Farmony aimed to bridge the gap between urban and rural life with the help of a digital fun-farming experience. The idea was to crowdfund farmland in the user's area. The user could track the progress in a similiar fashion as for example Farmville. After the harvest, the user gets some of this produce. The farmer would receive a steady predictable income and the global supply chain would be shortened.</p>
 
-- **Data against COVID-19**, EIT Deephack; 2020 <br>
+- **Data against COVID-19**, EIT Deephack; 2020, May <br>
   <p class="text_hackathon">Project Modum aimed to tie the economic effects to the measures taken in response to the COVID-19 pandemic. To this end, we developed three complementary aspects: 1) GDP differences (after measures were taken) to train a prediction model 2) web scraping of news on which the sentiment of economic articles was found and 3) a dashboard in React to showcase this information. </p>
