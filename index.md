@@ -51,7 +51,7 @@ title: Curriculum Vitae
 
 ## Work experience
 
- - **Data/Business Intelligence Intern **, TeamViewer;  2021, February - 2021, July <br>
+ - **Data/Business Intelligence Intern**, TeamViewer;  2021, February - 2021, July <br>
    
 <p class="text_experience">Full-time internship working with the Data Science, Data engineering and Reporting teams. Using Redshift SQL with dbt to perform queries, showcasing results in Tableau and building pipelines with AWS.</p>
 
