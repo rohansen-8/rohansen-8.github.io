@@ -33,7 +33,7 @@ title: Curriculum Vitae
   <dd> Windows, Linux (Debian, Ubuntu, Arch) and macOS </dd>
   
   <dt>Web Development</dt>
-  <dd>HTML, CSS, SCSS PHP and Jekyll </dd>
+  <dd>HTML, CSS, SCSS, PHP and Jekyll </dd>
   
   <dt>Version control</dt>
   <dd>Git </dd>
@@ -50,9 +50,8 @@ title: Curriculum Vitae
 
 ## Work experience
 
- - **Junior Data Engineer**, TeamViewer;  2021, August - Current
-   
-   <p class="text_experience">Continueing within the Business Intelligence department with a focus on the data engineering side. </p>
+ - **Junior Data Engineer**, TeamViewer;  2021, August - Current  
+   Continuing within the Business Intelligence department with a focus on the data engineering side.
 
  - **Business Intelligence Intern**, TeamViewer;  2021, February - 2021, July <br>
    
@@ -75,7 +74,7 @@ title: Curriculum Vitae
 
 - **Design of an AI solution to detect fake news**, EFSA; 2021, February <br>
   
-  <p class="text_hackathon"><i class="fas fa-award"></i><strong>Winning team</strong>; public procurement hackathon for the European Food Safety Authority (EFSA). We created a Software as a Service (SaaS) using the <a href="https://tfhub.dev/google/universal-sentence-encoder/4">Universal Sentence Encoder</a> with EFSA published documents as "ground truth". A statement regarding food can be put into the online user-friendly application, after which an EFSA API call is made to gather the documents and the semantic similarity is calculated with the encoder. This lead to an explainable model that could identify misinformation very fast for various statements.</p>
+  <p class="text_hackathon"><i class="fas fa-award"></i><strong> Winning team</strong>; public procurement hackathon for the European Food Safety Authority (EFSA). We created a Software as a Service (SaaS) using the <a href="https://tfhub.dev/google/universal-sentence-encoder/4">Universal Sentence Encoder</a> with EFSA published documents as "ground truth". A statement regarding food can be put into the online user-friendly application, after which an EFSA API call is made to gather the documents and the semantic similarity is calculated with the encoder. This lead to an explainable model that could identify misinformation very fast for various statements.</p>
   
 - **Finnish Education**, Junction 2020 Connected; 2020, November<br>
   
