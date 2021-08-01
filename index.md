@@ -52,8 +52,10 @@ title: Curriculum Vitae
 
  - **Junior Data Engineer**, TeamViewer;  2021, August - Current  
    Continuing within the Business Intelligence department with a focus on the data engineering side.
+   
  - **Business Intelligence Intern**, TeamViewer;  2021, February - 2021, July  
     Full-time internship working with the Data Science, Data engineering and Reporting teams. Using Redshift with dbt to perform queries, showcasing results in Tableau and building pipelines with AWS. Orchestrating all events using Airflow, such as automatically sending resellers an Excel file with customer that might renew soon. Created a serverless notification service for CodeCommit using AWS Lambda in combination with cloudwatch; enabling faster communication on pull requests. 
+    
  - **Teaching Assistant**, Eindhoven University of Technology;  2020, Autumn  
    Helped with two courses for twelve hours per week. My main tasks were to hold online meetings with a number of student groups,  to coach them in developing arguments for and against a certain novel technology, and to help students in guided self-study sessions with solving questions. All communication happened in English and I was responsible for ten groups of five students.
 
