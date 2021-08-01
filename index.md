@@ -50,7 +50,11 @@ title: Curriculum Vitae
 
 ## Work experience
 
- - **Data/Business Intelligence Intern**, TeamViewer;  2021, February - 2021, July <br>
+ - **Junior Data Engineer**, TeamViewer;  2021, August - Current <br>
+   
+   <p class="text_experience">Continueing within the Business Intelligence department with a focus on the data engineering side. </p>
+
+ - **Business Intelligence Intern**, TeamViewer;  2021, February - 2021, July <br>
    
    <p class="text_experience">Full-time internship working with the Data Science, Data engineering and Reporting teams. Using Redshift with dbt to perform queries, showcasing results in Tableau and building pipelines with AWS. Orchestrating all events using Airflow, such as automatically sending resellers an Excel file with customer that might renew soon. Created a serverless notification service for CodeCommit using AWS Lambda in combination with cloudwatch; enabling faster communication on pull requests. </p>
 
@@ -71,7 +75,7 @@ title: Curriculum Vitae
 
 - **Design of an AI solution to detect fake news**, EFSA; 2021, February <br>
   
-  <p class="text_hackathon">Public procurement hackathon for the European Food Safety Authority (EFSA). We created a Software as a Service (SaaS) using the <a href="https://tfhub.dev/google/universal-sentence-encoder/4">Universal Sentence Encoder</a> with EFSA published documents as "ground truth". A statement regarding food can be put into the online user-friendly application, after which an EFSA API call is made to gather the documents and the semantic similarity is calculated with the encoder. This lead to an explainable model that could identify misinformation very fast for various statements.</p>
+  <p class="text_hackathon"><i class="fas fa-award"></i><strong>Winning team</strong>; public procurement hackathon for the European Food Safety Authority (EFSA). We created a Software as a Service (SaaS) using the <a href="https://tfhub.dev/google/universal-sentence-encoder/4">Universal Sentence Encoder</a> with EFSA published documents as "ground truth". A statement regarding food can be put into the online user-friendly application, after which an EFSA API call is made to gather the documents and the semantic similarity is calculated with the encoder. This lead to an explainable model that could identify misinformation very fast for various statements.</p>
   
 - **Finnish Education**, Junction 2020 Connected; 2020, November<br>
   
