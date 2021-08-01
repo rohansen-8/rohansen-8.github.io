@@ -50,7 +50,7 @@ title: Curriculum Vitae
 
 ## Work experience
 
- - **Junior Data Engineer**, TeamViewer;  2021, August - Current <br>
+ - **Junior Data Engineer**, TeamViewer;  2021, August - Current
    
    <p class="text_experience">Continueing within the Business Intelligence department with a focus on the data engineering side. </p>
 
