@@ -18,13 +18,13 @@ title: Curriculum Vitae
 - Knowledge of the following from work, university courses and personal projects:
   <dl>
   <dt>Data</dt>
-  <dd>Processing (Spark, Flink), cleaning (Pandas), modelling (TensorFlow, sklearn), analysis and visualization (Tableau, Streamlit, Altair, Seaborn)</dd>
+  <dd>Processing (dbt/SQL, Spark, Flink), cleaning (Pandas), modelling (TensorFlow, sklearn), analysis and visualization (Looker, Tableau, Streamlit, Altair, Seaborn)</dd>
   
   <dt>Programming languages</dt> 
-  <dd>Python (including NumPy, matplotlib and the use of Jupyter Notebooks), Java, Kotlin, MATLAB, Haskell and  SAS</dd>
+  <dd>Python (including NumPy, matplotlib and the use of Jupyter Notebooks), Java (limited), Kotlin (limited), MATLAB and Haskell</dd>
   
-  <dt>Databases</dt>
-  <dd>Redshift, SQL, dbt, JSON, RDF, XML and SPARQL </dd>
+  <dt>Tools</dt>
+  <dd>Docker, Airflow, git</dd>
   
   <dt>Business development</dt> 
   <dd>Pitching, Business Model Canvas, Design Thinking and Lean Startup </dd>
@@ -35,11 +35,8 @@ title: Curriculum Vitae
   <dt>Web Development</dt>
   <dd>HTML, CSS, SCSS, PHP and Jekyll </dd>
   
-  <dt>Version control</dt>
-  <dd>Git </dd>
-  
   <dt>Cloud services</dt>
-  <dd>AWS (deployment using CDK) </dd>
+  <dd>AWS (deployment using CDK): S3, ECS, Glue, Athena, Redshift, Lambda, Cloudwatch, RDS, CodeCommit/CodePipeline </dd>
   
   <dt>Process optimization</dt>
   <dd>Lean Manufacturing and Six Sigma </dd>
@@ -50,8 +47,12 @@ title: Curriculum Vitae
 
 ## Work experience
 
- - **Junior Data Engineer**, TeamViewer;  2021, August - Current  
-   Continuing within the Business Intelligence department with a focus on the data engineering side.
+
+ - **Data Engineer**, TeamViewer;  2022, April - Current  
+    Responsible for the data infrastructure. Improving upon data self-service by focusing on documentation and data mesh approach (data as a product). Managing stakeholders and translating business requests to technical specifications. 
+
+ - **Junior Data Engineer**, TeamViewer;  2021, August - 2022, March      
+    More responsibilities compared to the internship, such as taking care of import/transformation/export processes (Airflow/dbt/AWS/Azure), being responsible for GDPR (e.g. handling (pseudo-)anonymization) and coaching others within the team.
    
  - **Business Intelligence Intern**, TeamViewer;  2021, February - 2021, July  
     Full-time internship working with the Data Science, Data engineering and Reporting teams. Using Redshift with dbt to perform queries, showcasing results in Tableau and building pipelines with AWS. Orchestrating all events using Airflow, such as automatically sending resellers an Excel file with customer that might renew soon. Created a serverless notification service for CodeCommit using AWS Lambda in combination with cloudwatch; enabling faster communication on pull requests. 
