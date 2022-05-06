@@ -24,7 +24,7 @@ title: Curriculum Vitae
   <dd>Python (including NumPy, matplotlib and the use of Jupyter Notebooks), Java (limited), Kotlin (limited), MATLAB and Haskell</dd>
   
   <dt>Tools</dt>
-  <dd>Docker, Airflow, git</dd>
+  <dd>Docker, Airflow and git</dd>
   
   <dt>Business development</dt> 
   <dd>Pitching, Business Model Canvas, Design Thinking and Lean Startup </dd>
@@ -36,7 +36,7 @@ title: Curriculum Vitae
   <dd>HTML, CSS, SCSS, PHP and Jekyll </dd>
   
   <dt>Cloud services</dt>
-  <dd>AWS (deployment using CDK): S3, ECS, Glue, Athena, Redshift, Lambda, Cloudwatch, RDS, CodeCommit/CodePipeline </dd>
+  <dd>AWS (deployment using CDK): S3, ECS, Glue, Athena, Redshift, Lambda, Cloudwatch, RDS and CodeCommit/CodePipeline </dd>
   
   <dt>Process optimization</dt>
   <dd>Lean Manufacturing and Six Sigma </dd>
