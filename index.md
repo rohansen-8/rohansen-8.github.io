@@ -6,23 +6,23 @@ title: Curriculum Vitae
 ## Work experience
 
 
- - **Data Engineer**, TeamViewer ; Berlin, DE ;  2022, April - Current      
-   <i class="far fa-circle"></i> Responsible for the data infrastructure (in AWS CDK; IaC)       
-   <i class="far fa-circle"></i> Improving upon data self-service by focusing on documentation and data mesh approach (data as a product), in particular by (co-)designing a general data structure for imports using the Singer framework with Meltano      
-   <i class="far fa-circle"></i> Collaborating with consultants for marketing attribution (linking advertising costs and actual campaign revenues)       
-   <i class="far fa-circle"></i> Managing stakeholders and translating business requests to technical specifications.
+- **Data Engineer**, TeamViewer ; Berlin, DE ;  2022, April - Current      
+   - Responsible for the data infrastructure (in AWS CDK; IaC) 
+   - Improving upon data self-service by focusing on documentation and data mesh approach (data as a product), in particular by (co-)designing a general data structure for imports using the Singer framework with Meltano 
+   - Collaborating with consultants for marketing attribution (linking advertising costs and actual campaign revenues)
+   - Managing stakeholders and translating business requests to technical specifications.
    
- - **Junior Data Engineer**, TeamViewer ; Berlin, DE ;  2021, August - 2022, March      
+- **Junior Data Engineer**, TeamViewer ; Berlin, DE ;  2021, August - 2022, March      
     More responsibilities compared to the internship:       
-    <i class="far fa-circle"></i> taking care of import/transformation/export processes (Airflow/dbt/AWS/Azure) 
-    <i class="far fa-circle"></i> GDPR responsible, e.g. handling (pseudo-)anonymization              
-    <i class="far fa-circle"></i> coaching others within the team        
-    <i class="far fa-circle"></i> ensure that data is reliable and accurate by restructuring transformations with documentation; for example, data sources related to subscription KPIs that are used by upper management.
-    
- - **Business Intelligence Intern**, TeamViewer ; Berlin, DE ;  2021, February - 2021, July  
+    - taking care of import/transformation/export processes (Airflow/dbt/AWS/Azure) 
+    - GDPR responsible, e.g. handling (pseudo-)anonymization
+    - coaching others within the team 
+    - ensure that data is reliable and accurate by restructuring transformations with documentation; for example, data sources related to subscription KPIs that are used by upper management.
+
+- **Business Intelligence Intern**, TeamViewer ; Berlin, DE ;  2021, February - 2021, July  
     Full-time internship working with the Data Science, Data engineering and Reporting teams. Using Redshift with dbt to perform queries, showcasing results in Tableau and building pipelines with AWS. Orchestrating all events using Airflow, such as automatically sending resellers an Excel file with customer that might renew soon. Created a serverless notification service for CodeCommit using AWS Lambda in combination with cloudwatch; enabling faster communication on pull requests. 
-    
- - **Teaching Assistant**, Eindhoven University of Technology ; Eindhoven, NL ;  2020, Autumn  
+
+- **Teaching Assistant**, Eindhoven University of Technology ; Eindhoven, NL ;  2020, Autumn  
    Helped with two courses for twelve hours per week. My main tasks were to hold online meetings with a number of student groups,  to coach them in developing arguments for and against a certain novel technology, and to help students in guided self-study sessions with solving questions. All communication happened in English and I was responsible for ten groups of five students.
 
 ## Education
@@ -49,9 +49,13 @@ title: Curriculum Vitae
 ## Interests
 
 - **Travelling**, seeing the world and how different cultures have various answers to  the same challenges everyone faces (what should a house look like, how to treat each-other, etc.).
-- **Eating spicy food,** which is something I mainly learned during my semester abroad in South Korea; "spicy" is different in every place!
+
+- **Eating spicy food**, which is something I mainly learned during my semester abroad in South Korea; "spicy" is different in every place!
+
 - **History**, to clarify why things are as they are.
-- **Urban design,** which (invisibly) guides many of our day-to-day activities.
+
+- **Urban design**, which (invisibly) guides many of our day-to-day activities.
+
 
 ## Extra activities
 
@@ -60,6 +64,8 @@ title: Curriculum Vitae
   
 - **Vice President, Dies Committee**, DSCC/DJCR 'Audentis et Virtutis'; 2016, December - 2017, March  
   Organized two weeks full of activities for ± 300 students, including a gala in a manor house. I took care of the communication (internal and external), general structure and management, and the website. 
+
+
 ### Hackathons
 
 - **Design of an AI solution to detect fake news**, EFSA; 2021, February  
