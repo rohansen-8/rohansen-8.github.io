@@ -3,62 +3,55 @@ author: Dim Hoogeveen
 title: Curriculum Vitae
 ---
 
-## Education
-
-| Year | Degree | Field of study | University |
-| :----: | :------ | :-------------- | :---------- |
-| 2021 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2019 | <u>Master</u> | **Data Science**, dual degree ([EIT](https://masterschool.eitdigital.eu/about-us/)) | Eindhoven University of Technology <br>& Technical University of Madrid |
-| 2019 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2018 | <u>Pre-Master</u> | **Technical Computer Science**| University of Twente |
-| 2018 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2015 | <u>Bachelor</u>   | **Mechanical Engineering**<br />With **Electrical Engineering** minor | University of Twente<br />Hanyang University (한양대학교)    |
-
-## Skills
-
-- Proficient in **Dutch** (native), **English** (fluent) and **German** (reasonable)
-- Communicative  strong, socially skilled and enthusiastic! 
-- Knowledge of the following from work, university courses and personal projects:
-  <dl>
-  <dt>Data</dt>
-  <dd>Processing (dbt/SQL, Spark, Flink), cleaning (Pandas), modelling (TensorFlow, sklearn), analysis and visualization (Looker, Tableau, Streamlit, Altair, Seaborn)</dd>
-  
-  <dt>Programming languages</dt> 
-  <dd>Python (including NumPy, matplotlib and the use of Jupyter Notebooks), Java (limited), Kotlin (limited), MATLAB and Haskell</dd>
-  
-  <dt>Tools</dt>
-  <dd>Docker, Airflow and git</dd>
-  
-  <dt>Business development</dt> 
-  <dd>Pitching, Business Model Canvas, Design Thinking and Lean Startup </dd>
-  
-  <dt>Operating systems</dt>
-  <dd> Windows, Linux (Debian, Ubuntu, Arch) and macOS </dd>
-  
-  <dt>Web Development</dt>
-  <dd>HTML, CSS, SCSS, PHP and Jekyll </dd>
-  
-  <dt>Cloud services</dt>
-  <dd>AWS (deployment using CDK): S3, ECS, Glue, Athena, Redshift, Lambda, Cloudwatch, RDS and CodeCommit/CodePipeline </dd>
-  
-  <dt>Process optimization</dt>
-  <dd>Lean Manufacturing and Six Sigma </dd>
-  
-  <dt>Text languages</dt>
-  <dd>MarkDown, LaTeX and Microsoft Office suit </dd>
-  </dl>
-
 ## Work experience
 
 
- - **Data Engineer**, TeamViewer;  2022, April - Current  
-    Responsible for the data infrastructure. Improving upon data self-service by focusing on documentation and data mesh approach (data as a product). Managing stakeholders and translating business requests to technical specifications. 
-
- - **Junior Data Engineer**, TeamViewer;  2021, August - 2022, March      
-    More responsibilities compared to the internship, such as taking care of import/transformation/export processes (Airflow/dbt/AWS/Azure), being responsible for GDPR (e.g. handling (pseudo-)anonymization) and coaching others within the team.
+ - **Data Engineer**, TeamViewer ; Berlin, DE ;  2022, April - Current      
+   <i class="far fa-circle"></i> Responsible for the data infrastructure (in AWS CDK; IaC)       
+   <i class="far fa-circle"></i> Improving upon data self-service by focusing on documentation and data mesh approach (data as a product), in particular by (co-)designing a general data structure for imports using the Singer framework with Meltano      
+   <i class="far fa-circle"></i> Collaborating with consultants for marketing attribution (linking advertising costs and actual campaign revenues)       
+   <i class="far fa-circle"></i> Managing stakeholders and translating business requests to technical specifications.
    
- - **Business Intelligence Intern**, TeamViewer;  2021, February - 2021, July  
+ - **Junior Data Engineer**, TeamViewer ; Berlin, DE ;  2021, August - 2022, March      
+    More responsibilities compared to the internship:       
+    <i class="far fa-circle"></i> taking care of import/transformation/export processes (Airflow/dbt/AWS/Azure) 
+    <i class="far fa-circle"></i> GDPR responsible, e.g. handling (pseudo-)anonymization              
+    <i class="far fa-circle"></i> coaching others within the team        
+    <i class="far fa-circle"></i> ensure that data is reliable and accurate by restructuring transformations with documentation; for example, data sources related to subscription KPIs that are used by upper management.
+    
+ - **Business Intelligence Intern**, TeamViewer ; Berlin, DE ;  2021, February - 2021, July  
     Full-time internship working with the Data Science, Data engineering and Reporting teams. Using Redshift with dbt to perform queries, showcasing results in Tableau and building pipelines with AWS. Orchestrating all events using Airflow, such as automatically sending resellers an Excel file with customer that might renew soon. Created a serverless notification service for CodeCommit using AWS Lambda in combination with cloudwatch; enabling faster communication on pull requests. 
     
- - **Teaching Assistant**, Eindhoven University of Technology;  2020, Autumn  
+ - **Teaching Assistant**, Eindhoven University of Technology ; Eindhoven, NL ;  2020, Autumn  
    Helped with two courses for twelve hours per week. My main tasks were to hold online meetings with a number of student groups,  to coach them in developing arguments for and against a certain novel technology, and to help students in guided self-study sessions with solving questions. All communication happened in English and I was responsible for ten groups of five students.
+
+## Education
+
+| Degree | Field of study | University | Year |
+| :------ | :-------------- | :---------- | :----: |
+| <u>Master</u> | **Data Science**, dual degree (EIT Digital) | Eindhoven University of Technology <br>& Technical University of Madrid | 2021 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2019 |
+| <u>Pre-Master</u> | **Technical Computer Science**| University of Twente | 2019 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2018 |
+| <u>Bachelor</u>   | **Mechanical Engineering**<br />With **Electrical Engineering** minor | University of Twente<br />Hanyang University (한양대학교)    | 2018 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2015 |
+
+## Skills
+
+| Knowledge area               | Skills                                                       |
+| ---------------------------- | ------------------------------------------------------------ |
+| <u>Languages</u>             | Dutch (native), English (fluent) & German (reasonable)       |
+| <u>Programming languages</u> | Python (proficient), Kotlin (limited), Java (limited), Scala (limited), MATLAB (limited) & Haskell (hobby) |
+| <u>Tools</u>                 | dbt, Docker, Airflow, git, Google-Fu, Spark, Flink, Pandas/Dask, Streamlit, Altair, Seaborn, Tensorflow, sklearn, Meltano/Singer, Looker & Tableau |
+| <u>Business development</u>  | Pitching, stakeholder management, business model canvas, design thinking & lean startup |
+| <u>Operating systems</u>     | Windows, Linux (Debian, Ubuntu, Arch) & macOS                |
+| <u>Cloud services</u>        | AWS (deployment using CDK): S3, ECS, Glue, Athena, Redshift, Lambda, Cloudwatch, RDS & CodeCommit/CodePipeline. <br />Google Cloud: BigQuery |
+| <u>Process optimization</u>  | Lean Manufacturing & Six Sigma                               |
+| <u>Text languages</u>        | MarkDown, LaTeX & Microsoft Office suit                      |
+
+## Interests
+
+- **Travelling**, seeing the world and how different cultures have various answers to  the same challenges everyone faces (what should a house look like, how to treat each-other, etc.).
+- **Eating spicy food,** which is something I mainly learned during my semester abroad in South Korea; "spicy" is different in every place!
+- **History**, to clarify why things are as they are.
+- **Urban design,** which (invisibly) guides many of our day-to-day activities.
 
 ## Extra activities
 
@@ -67,7 +60,6 @@ title: Curriculum Vitae
   
 - **Vice President, Dies Committee**, DSCC/DJCR 'Audentis et Virtutis'; 2016, December - 2017, March  
   Organized two weeks full of activities for ± 300 students, including a gala in a manor house. I took care of the communication (internal and external), general structure and management, and the website. 
-  
 ### Hackathons
 
 - **Design of an AI solution to detect fake news**, EFSA; 2021, February  
