@@ -65,9 +65,11 @@ title: Curriculum Vitae
 - **Vice President, Dies Committee**, DSCC/DJCR 'Audentis et Virtutis'; 2016, December - 2017, March  
   Organized two weeks full of activities for ± 300 students, including a gala in a manor house. I took care of the communication (internal and external), general structure and management, and the website. 
 
-
 ### Hackathons
 
+- **(Re)Visit Europe: finding sustainable destinations**, CASSINI; 2022, May  
+  The challenge of CASSINI was to use EU space data and apply it to the tourism sector. Project DAt uses air quality measurements to recommend routes and destinations for short-distance travels that meets an individual's need from a health perspective. The targeted users are people who are sensitive to air pollution or pollen. The short-term future would be forecast using a regression model.
+  
 - **Design of an AI solution to detect fake news**, EFSA; 2021, February  
   <i class="fas fa-award"></i><strong> Winning team</strong>; public procurement hackathon for the European Food Safety Authority (EFSA). We created a Software as a Service (SaaS) using the <a href="https://tfhub.dev/google/universal-sentence-encoder/4">Universal Sentence Encoder</a> with EFSA published documents as "ground truth". A statement regarding food can be put into the online user-friendly application, after which an EFSA API call is made to gather the documents and the semantic similarity is calculated with the encoder. This lead to an explainable model that could identify misinformation very fast for various statements.
   
