@@ -46,6 +46,10 @@ title: Curriculum Vitae
 | <u>Process optimization</u>  | Lean Manufacturing & Six Sigma                               |
 | <u>Text languages</u>        | MarkDown, LaTeX & Microsoft Office suit                      |
 
+### Certifications
+
+ - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/eb8773c0-fab6-4ca3-8795-75823ddb7a6a/public_url)
+
 ## Interests
 
 - **Travelling**, seeing the world and how different cultures have various answers to  the same challenges everyone faces (what should a house look like, how to treat each-other, etc.).
