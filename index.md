@@ -6,7 +6,10 @@ title: Curriculum Vitae
 ## Work experience
 
 
-- **Data Engineer**, TeamViewer ; Berlin, DE ;  2022, April - Current      
+- **Data Engineer**, Adyen ; Amsterdam, NL ;  2023, June - Current      
+   - Within the Data Platform Development team
+
+- **Data Engineer**, TeamViewer ; Berlin, DE ;  2022, April - 2023, March      
    - Responsible for the data infrastructure (in AWS CDK; IaC) 
    - Improving upon data self-service by focusing on documentation and data mesh approach (data as a product), in particular by (co-)designing a general data structure for imports using the Singer framework with Meltano 
    - Collaborating with consultants for marketing attribution (linking advertising costs and actual campaign revenues)
