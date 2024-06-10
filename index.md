@@ -6,7 +6,7 @@ title: Curriculum Vitae
 ## Work experience
 
 
-- **Data Engineer**, Adyen ; Amsterdam, NL ;  2023, June - Current      
+- **Senior Software Engineer**, Bangalore ; India ;  2019, September - 2020, December      
    - Within the Data Platform Development team
 
 - **Data Engineer**, TeamViewer ; Berlin, DE ;  2022, April - 2023, March      
