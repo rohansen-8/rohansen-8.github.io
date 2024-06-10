@@ -37,7 +37,7 @@ title: Curriculum Vitae
 
 ## Other Activities
 
-- [**Siss Program for Beginning Doctoral Students in Economics**](https://szgerzensee.ch/courses/bdp), Gerzensee, Switzerland; 2020 September to 2021, September.
+- [**Swiss Program for Beginning Doctoral Students in Economics**](https://szgerzensee.ch/courses/bdp), Gerzensee, Switzerland; 2020 September to 2021, September.
 
 - **Worshop on Introduction to Decision Making and Uncertainty**, [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute), held online; 2021, July.
 
