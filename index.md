@@ -15,9 +15,9 @@ title: Curriculum Vitae
 - Worked as Senior Software Engineer at [HCL Technologies](https://www.hcltech.com/), Bangalore, India; 2019 - 2020
 
 ## Working Papers
-- M. Multerer, P. Schneider, R. Sen, ["Fast empirical scenarios"](https://arxiv.org/abs/2307.03927), arXiv preprint arXiv:2307.03927 (under review).
+- M. Multerer, P. Schneider, R. Sen, [``Fast empirical scenarios"](https://arxiv.org/abs/2307.03927), arXiv preprint arXiv:2307.03927 (under review).
 
-- V. Ghidini, M. Multerer, J. Quizi, R. Sen, ["Observation-specific explanations through scattered data approximation"](https://arxiv.org/abs/2404.08747v1) arXiv preprint arXiv:2404.08747 (under review).
+- V. Ghidini, M. Multerer, J. Quizi, R. Sen, [``Observation-specific explanations through scattered data approximation"](https://arxiv.org/abs/2404.08747v1) arXiv preprint arXiv:2404.08747 (under review).
 
 - L. Pernigo, R. Sen, D. Baroli, "Probabilistic energy forecasting through quantile regression in reproducing kernel Hilbert spaces".
 
@@ -42,9 +42,3 @@ title: Curriculum Vitae
 - **Worshop on Introduction to Decision Making and Uncertainty**, [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute), held online; 2021, July.
 
 - [**Workshop on Advanced C++**](https://www.cscs.ch/events/events/event-detail?tx_cscsevents_pi1%5Bcontroller%5D=Event&tx_cscsevents_pi1%5Bevent%5D=158&cHash=17332c5f60688455e04eaa96a49d669f), CSCS Swiss National Supercomputing Centre, Switzerland; 2023, October.
-
-
-
-
-
-
