@@ -23,7 +23,7 @@ title: Curriculum Vitae
 
 ## Conferences and Contributed Talks
 
-- [**Swiss Finance Institute Reasearch Days**](https://www.sfi.ch/en/faculty/research-days), Gerzensee, Switzerland; 2024, June; 
+- [**SFI (Swiss Finance Institute) Research Days**](https://www.sfi.ch/en/faculty/research-days), Gerzensee, Switzerland; 2024, June; 
   
 - [**The Second Conference of Young Applied Mathematicians**](https://www.uzerbinati.eu/Conference/2022/index.html), Arenzano, Italy; 2022, September; [Kernel-based method for large emprirical truncated moment problem](https://www.youtube.com/watch?v=GTkvT23VM7c&t=1807s&ab_channel=YAMCConferenceofYoungAppliedMathematicians).
   
