@@ -23,16 +23,18 @@ title: Curriculum Vitae
 
 ## Conferences and Contributed Talks
 
-- [**SFI (Swiss Finance Institute) Research Days**](https://www.sfi.ch/en/faculty/research-days), Gerzensee, Switzerland; 2024, June.
+- [**Conference on Probability and Stochastic Processes**](https://www.isid.ac.in/~rlkconf2022/program.php), Indian Statistical Institute, Kolkata, India; 2022, March.
+
+- [**SFI (Swiss Finance Institute) Research Days**](https://www.sfi.ch/en/faculty/research-days), Gerzensee, Switzerland; 2022, June.
   
 - [**The Second Conference of Young Applied Mathematicians**](https://www.uzerbinati.eu/Conference/2022/index.html), Arenzano, Italy; 2022, September; [Kernel-based method for large emprirical truncated moment problem](https://www.youtube.com/watch?v=GTkvT23VM7c&t=1807s&ab_channel=YAMCConferenceofYoungAppliedMathematicians). 
   
-- [**Conference on Stochastic optimal control in Economics, Finance, and Learning theory**](https://math.ethz.ch/fim/activities/conferences/past-conferences/2023/stochastic-optimal-control.html), Zürich, Switzerland; 2023, June.
+- [**Conference on Stochastic optimal control in Economics, Finance, and Learning theory**](https://math.ethz.ch/fim/activities/conferences/past-conferences/2023/stochastic-optimal-control.html), ETH Zürich, Switzerland; 2023, June.
 
 - [**Fifteenth Annual SoFiE (Society for Financial Econometrics) Conference**](https://sofie2023seoul.skku.edu/sofie/index.do), Seoul, South Korea; 2023, June; Fast empirical scenarios.
 
 
-- [**FinEML (Financial Econometrics Meets Machine Learning) Conference**](https://www.eur.nl/en/ese/events/fineml-2023-11-10), Rotterdam, Netherlands; 2023, November; Fast empirical scenarios. 
+- [**FinEML (Financial Econometrics Meets Machine Learning) Conference**](https://www.eur.nl/en/ese/events/fineml-2023-11-10), Erasmus University, Rotterdam, Netherlands; 2023, November; Fast empirical scenarios. 
 
 - [**The Second World Conference on eXplainable Artificial Intelligence**](https://xaiworldconference.com/2024/), Valetta, Malta; 2024, July.
 
@@ -43,4 +45,3 @@ title: Curriculum Vitae
 - **Worshop on Introduction to Decision Making and Uncertainty**, [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute), held online; 2021, July.
 
 - [**Workshop on Advanced C++**](https://www.cscs.ch/events/events/event-detail?tx_cscsevents_pi1%5Bcontroller%5D=Event&tx_cscsevents_pi1%5Bevent%5D=158&cHash=17332c5f60688455e04eaa96a49d669f), CSCS Swiss National Supercomputing Centre, Switzerland; 2023, October. 
- [certificate](https://github.com/rohansen-8/rohansen-8.github.io/blob/master/assets/certificates/CSCS2023.pdf)
