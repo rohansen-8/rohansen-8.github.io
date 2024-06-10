@@ -1,26 +1,19 @@
 ---
-author: Wei Huang
+author: Rohan Sen
 title: Curriculum Vitae
 ---
-
-## Work experience
-
-LOOKING FOR JOBS, e.g., Data Scientist, Machine Learning Engineer, and Quantitative Researcher...
-
 
 ## Education
 
 | Degree | Field of study | University | Year |
 | :------ | :-------------- | :---------- | :----: |
-| <u>PhD</u> | **Computational Science**, supervised by [Prof. Dr. Michael Multerer](https://muchip.github.io), focused on high performance computing for solving PDEs on random geometries | Università della Svizzera italiana | 2024 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2020 |
-| <u>Master</u> | **Probability and Mathematical Statistics**, supervised by [Prof. Dr. Xicheng Zhang](https://scholar.google.com/citations?user=Q_xtPucAAAAJ&hl=zh-CN)| Wuhan University | 2018 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2015 |
-| <u>Bachelor</u>   | **Statistics**, supervised by [Prof. Dr. Yuanyuan Liu](https://faculty.csu.edu.cn/liuyuanyuan/zh_CN/lwcg/3441/list/index.htm) | Central South University | 2015 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2011 |
+| <u>PhD</u> | **Econometrics and Statistics**, supervised by [Prof. Dr. Paul Schneider](https://sites.google.com/view/paul-schneider) and co-supervised by [Prof. Dr. Michael Multerer](https://muchip.github.io) | [Università della Svizzera italiana, Lugano, Switzerland](https://www.usi.ch/en) | present <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2021 |
+| <u>Master</u> | **Mathematics and Computing**, supervised by [Prof. Subhamay Saha](https://sites.google.com/site/sahasubhamay86/)| [Indian Institute of Technology, Guwahati, India](https://www.iitg.ac.in/) | 2019 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2017 |
+| <u>Bachelor</u>   | **Mathematics major with Statistics and Computer Science** | [Ramakrishna Mission Vidyamandira, Belur, India](https://sites.google.com/view/vidyamandira-math) | 2017 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2014 |
 
-## Academic Visiting 
+## Work Experience
+- Worked as Senior Software Engineer at [HCL Technologies](https://www.hcltech.com/), Bangalore, India, 2019 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> 2020 |
 
-| Degree | Field of study | University | Year |
-| :------ | :-------------- | :---------- | :----: |
-| <u>Exchange PhD</u> | **Artificial Intelligence**, supervised by [Prof. Dr. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/), focused on graph neural networks| University of Oxford | 2024 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> 2023 |
 
 ## Skills
 
