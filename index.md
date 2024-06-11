@@ -42,6 +42,6 @@ title: Curriculum Vitae
 
 - [**Swiss Program for Beginning Doctoral Students in Economics**](https://szgerzensee.ch/courses/bdp), Gerzensee, Switzerland; 2020, September to 2021, September. 
 
-- **Worshop on Introduction to Decision Making and Uncertainty**, [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute), held online; 2021, July.
+- **Workshop on Introduction to Decision Making and Uncertainty**, [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute), held online; 2021, July.
 
 - [**Workshop on Advanced C++**](https://www.cscs.ch/events/events/event-detail?tx_cscsevents_pi1%5Bcontroller%5D=Event&tx_cscsevents_pi1%5Bevent%5D=158&cHash=17332c5f60688455e04eaa96a49d669f), CSCS Swiss National Supercomputing Centre, Switzerland; 2023, October. 
