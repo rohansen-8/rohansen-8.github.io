@@ -14,10 +14,11 @@ title: Curriculum Vitae
 ## Professional Experience
 - Worked as Senior Software Engineer at [HCL Technologies](https://www.hcltech.com/), Bangalore, India; 2019 - 2020
 
+## Publications 
+- V. Ghidini, M. Multerer, J. Quizi, R. Sen, [*Observation-specific explanations through scattered data approximation*](https://link.springer.com/chapter/10.1007/978-3-031-63797-1_17); 2024, July.
+
 ## Working Papers
 - M. Multerer, P. Schneider, R. Sen, [*Fast empirical scenarios*](https://arxiv.org/abs/2307.03927), arXiv preprint arXiv:2307.03927 (under review).
-
-- V. Ghidini, M. Multerer, J. Quizi, R. Sen, [*Observation-specific explanations through scattered data approximation*](https://arxiv.org/abs/2404.08747v1) arXiv preprint arXiv:2404.08747 (under review).
 
 - L. Pernigo, R. Sen, D. Baroli, *Probabilistic energy forecasting through quantile regression in reproducing kernel Hilbert spaces*.
 
