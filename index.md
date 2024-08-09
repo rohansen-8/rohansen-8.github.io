@@ -20,7 +20,7 @@ title: Curriculum Vitae
 ## Working Papers
 - M. Multerer, P. Schneider, R. Sen, [*Fast empirical scenarios*](https://arxiv.org/abs/2307.03927), arXiv preprint arXiv:2307.03927 (under review).
 
-- L. Pernigo, R. Sen, D. Baroli, *Probabilistic energy forecasting through quantile regression in reproducing kernel Hilbert spaces*.
+- L. Pernigo, R. Sen, D. Baroli, [*Probabilistic energy forecasting through quantile regression in reproducing kernel Hilbert spaces*](https://arxiv.org/abs/2408.04405), arXiv preprint arXiv:2408.04405 (under review).
 
 ## Conferences and Contributed Talks
 
