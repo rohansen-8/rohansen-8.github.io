@@ -17,7 +17,7 @@ title: Curriculum Vitae
 ## Publications 
 - V. Ghidini, M. Multerer, J. Quizi, R. Sen, [*Observation-specific explanations through scattered data approximation*](https://link.springer.com/chapter/10.1007/978-3-031-63797-1_17); 2024, July.
 
-- M. Multerer, P. Schneider, R. Sen, [*Fast empirical scenarios*](https://arxiv.org/abs/2307.03927), *Journal of Computational Mathematics and Data Science* (forthcoming); 2024, September.
+- M. Multerer, P. Schneider, R. Sen, [*Fast empirical scenarios*](https://www.sciencedirect.com/science/article/pii/S2772415824000105?via%3Dihub), *Journal of Computational Mathematics and Data Science*; 2024, September.
 
 ## Working Papers
 - L. Pernigo, R. Sen, D. Baroli, [*Probabilistic energy forecasting through quantile regression in reproducing kernel Hilbert spaces*](https://arxiv.org/abs/2408.04405), arXiv preprint arXiv:2408.04405 (under review).
