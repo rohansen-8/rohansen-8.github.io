@@ -15,12 +15,11 @@ title: Curriculum Vitae
 - Worked as Senior Software Engineer at [HCL Technologies](https://www.hcltech.com/), Bangalore, India; 2019 - 2020
 
 ## Publications 
-- V. Ghidini, M. Multerer, J. Quizi, R. Sen, [*Observation-specific explanations through scattered data approximation*](https://link.springer.com/chapter/10.1007/978-3-031-63797-1_17); *Proceedings of the Second World Conference on Explainable Artificial Intelligence*, 2024, July.
+- V. Ghidini, M. Multerer, J. Quizi, R. Sen, [*Observation-specific explanations through scattered data approximation*](https://link.springer.com/chapter/10.1007/978-3-031-63797-1_17); *Proceedings of the Second World Conference on Explainable Artificial Intelligence*, July, 2024.
 
-- M. Multerer, P. Schneider, R. Sen, [*Fast empirical scenarios*](https://www.sciencedirect.com/science/article/pii/S2772415824000105?via%3Dihub), *Journal of Computational Mathematics and Data Science*, 2024, September.
+- M. Multerer, P. Schneider, R. Sen, [*Fast empirical scenarios*](https://www.sciencedirect.com/science/article/pii/S2772415824000105?via%3Dihub); *Journal of Computational Mathematics and Data Science*, September, 2024.
 
-## Working Papers
-- L. Pernigo, R. Sen, D. Baroli, [*Probabilistic energy forecasting through quantile regression in reproducing kernel Hilbert spaces*](https://arxiv.org/abs/2408.04405), arXiv preprint arXiv:2408.04405 (under review).
+- L. Pernigo, R. Sen, D. Baroli, [*Probabilistic energy forecasting through quantile regression in reproducing kernel Hilbert spaces*](https://energy.acm.org/eir/probabilistic-energy-forecasting-through-quantile-regression-in-reproducing-kernel-hilbert-spaces/); *ACM SIGENERGY Energy Informatics Review*, October, 2024.
 
 ## Conferences and Contributed Talks
 
