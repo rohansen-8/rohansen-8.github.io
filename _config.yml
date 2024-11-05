@@ -3,5 +3,4 @@ description: The online resume (CV) of me (Rohan Sen). I mainly created this to 
 url: "https://rohansen-8.github.io"
 theme: jekyll-theme-minimal
 
-logo: /assets/img/logo_transparent.png
-profile_picture: assets/img/ProfilePicture.jpeg
+profile_picture: assets/img/photo.jpeg
