@@ -38,6 +38,10 @@ title: Curriculum Vitae
 
 - [**The Second World Conference on eXplainable Artificial Intelligence**](https://xaiworldconference.com/2024/), Valetta, Malta; 2024, July.
 
+- [**FinEML (Financial Econometrics Meets Machine Learning) Conference**](https://www.eco.usi.ch/en/feeds/9787), USI Lugano, Lugano, Switzerland; 2024, November.
+
+- [**18th International Joint Conference CFE-CMStatistics 2024**](https://www.cmstatistics.org/CFECMStatistics2024/), London, UK; 2024, December.
+
 ## Other Activities
 
 - [**Swiss Program for Beginning Doctoral Students in Economics**](https://szgerzensee.ch/courses/bdp), Gerzensee, Switzerland; 2020, September to 2021, September. 
