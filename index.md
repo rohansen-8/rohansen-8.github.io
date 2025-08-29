@@ -44,6 +44,8 @@ title: Curriculum Vitae
 
 - [**Seventeenth Annual SoFiE (Society for Financial Econometrics) Conference**](https://sites.google.com/essec.edu/sofie-conference-2025/home), ESSEC Business School, France; 2025, June.
 
+- [**Second IAS-SBM Joint Workshop on Financial Econometrics in the Big Data Era**](https://calendar.hkust.edu.hk/events/2nd-hkust-ias-sbm-joint-workshop-financial-econometrics-big-data-era), Hong Kong University of Science and Technology, Hong Kong; 2025, August. [slides](assets/slides/HKUST.pdf)
+
 ## Other Activities
 
 - [**Swiss Program for Beginning Doctoral Students in Economics**](https://szgerzensee.ch/courses/bdp), Gerzensee, Switzerland; 2020, September to 2021, September. 
