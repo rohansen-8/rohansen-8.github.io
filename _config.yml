@@ -1,8 +1,14 @@
-title: Rohan Sen
-description: The online resume (CV) of me (Rohan Sen). I mainly created this to make myself more visible to everyone online.
+title: "Rohan Sen — Università della Svizzera italiana (USI)"
+description: "PhD candidate in Econometrics and Statistics at USI Lugano. Research in kernel methods, financial econometrics, statistical learning, financial econometrics."
 url: "https://rohansen-8.github.io"
+baseurl: ""     # important for user sites
+theme: jekyll-theme-minimal
+
 plugins:
   - jekyll-sitemap
-theme: jekyll-theme-minimal
+  - jekyll-seo-tag
+
+author:
+  name: "Rohan Sen"
 
 profile_picture: assets/img/photo.jpeg
