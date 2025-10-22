@@ -1,23 +1,23 @@
 ---
 author: Rohan Sen
-title: USI Lugano, Switzerland
+title: "Rohan Sen"
 ---
 
 ## Education
 
 | Degree | Field of study | University | Year |
 | :------ | :-------------- | :---------- | :----: |
-| <u>PhD</u> | **Econometrics and Statistics**, supervised by [Prof. Dr. Paul Schneider](https://sites.google.com/view/paul-schneider) and co-supervised by [Prof. Dr. Michael Multerer](https://muchip.github.io) | [Università della Svizzera italiana, Lugano, Switzerland](https://www.usi.ch/en) | present <br> <i class="fas fa-long-arrow-alt-up"></i> <br> Jan 2021 |
-| <u>Master</u> | **Mathematics and Computing**, supervised by [Dr. Subhamay Saha](https://sites.google.com/site/sahasubhamay86/)| [Indian Institute of Technology, Guwahati, India](https://www.iitg.ac.in/) | June 2019 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> July 2017 |
+| <u>PhD</u> | **Econometrics and Statistics**, supervised by [Paul Schneider](https://sites.google.com/view/paul-schneider) and co-supervised by [Michael Multerer](https://muchip.github.io) | [Università della Svizzera italiana, Lugano, Switzerland](https://www.usi.ch/en) | present <br> <i class="fas fa-long-arrow-alt-up"></i> <br> Jan 2021 |
+| <u>Master</u> | **Mathematics and Computing**, supervised by [Subhamay Saha](https://sites.google.com/site/sahasubhamay86/)| [Indian Institute of Technology, Guwahati, India](https://www.iitg.ac.in/) | June 2019 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> July 2017 |
 | <u>Bachelor</u>   | **Mathematics major with Statistics and Computer Science** | [Ramakrishna Mission Vidyamandira, Belur, India](https://sites.google.com/view/vidyamandira-math) | July 2017 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> July 2014 |
 
 
 ## Research Visits
-- Visiting Student Researcher at [Stanford University](https://fintech.stanford.edu/), California, USA; Sept 2025 - Dec 2025
+- Visiting Student Researcher (*hosted by [Markus Pelger](https://mpelger.people.stanford.edu/)*) at [AFTLabs, Stanford University](https://fintech.stanford.edu/), California, USA; Sept 2025 - Dec 2025.
 
 
 ## Professional Experience
-- Worked as Senior Software Engineer at [HCL Technologies](https://www.hcltech.com/), Bangalore, India; Sept 2019 - Dec 2020
+- Worked as Senior Software Engineer at [HCL Technologies](https://www.hcltech.com/), Bangalore, India; Sept 2019 - Dec 2020.
 
 
 ## Publications and Preprints 
@@ -34,7 +34,7 @@ title: USI Lugano, Switzerland
 
 ## Conferences and Contributed Talks
 
-- [**2nd IAS-SBM Joint Workshop on Financial Econometrics in the Big Data Era**](https://calendar.hkust.edu.hk/events/2nd-hkust-ias-sbm-joint-workshop-financial-econometrics-big-data-era), Hong Kong University of Science and Technology, Hong Kong; Aug 2025[slides](assets/slides/HKUST.pdf)
+- [**2nd IAS-SBM Joint Workshop on Financial Econometrics in the Big Data Era**](https://calendar.hkust.edu.hk/events/2nd-hkust-ias-sbm-joint-workshop-financial-econometrics-big-data-era), Hong Kong University of Science and Technology, Hong Kong; Aug 2025. [slides](assets/slides/HKUST.pdf)
 
 - [**17th Annual SoFiE (Society for Financial Econometrics) Conference**](https://sites.google.com/essec.edu/sofie-conference-2025/home), ESSEC Business School, France; June 2025.
 
