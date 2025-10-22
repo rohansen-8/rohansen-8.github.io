@@ -1,6 +1,8 @@
 title: Rohan Sen
 description: The online resume (CV) of me (Rohan Sen). I mainly created this to make myself more visible to everyone online.
 url: "https://rohansen-8.github.io"
+plugins:
+  - jekyll-sitemap
 theme: jekyll-theme-minimal
 
 profile_picture: assets/img/photo.jpeg
