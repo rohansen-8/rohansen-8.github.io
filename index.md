@@ -1,6 +1,7 @@
 ---
 author: Rohan Sen
 title: "Rohan Sen"
+title_separator: ""     # prevents "Page | Site" patterns
 ---
 
 ## Education
