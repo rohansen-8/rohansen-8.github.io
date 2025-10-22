@@ -1,6 +1,6 @@
 ---
 author: Rohan Sen
-title: Curriculum Vitae
+title: USI Lugano, Switzerland
 ---
 
 ## Education
