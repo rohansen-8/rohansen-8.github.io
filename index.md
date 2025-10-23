@@ -22,7 +22,7 @@ title_separator: ""     # prevents "Page | Site" patterns
 
 
 ## Publications and Preprints 
-- E. Luzzi, P. Schneider, R. Sen, *Learning the stochastic discount factor via nonparametric option portfolios*; *Working paper*, Oct 2025.
+- E. Luzzi, P. Schneider, R. Sen, [*Learning the stochastic discount factor via nonparametric option portfolios*](https://dx.doi.org/10.2139/ssrn.5634612); *Working paper*, Oct 2025.
 
 - R. Sen, [*Kernel-based nonparametric tests for shape constraints*](https://arxiv.org/html/2510.16745v2); *Working paper*, Oct 2025.
 
