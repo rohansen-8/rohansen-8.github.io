@@ -10,11 +10,11 @@ title_separator: ""     # prevents "Page | Site" patterns
 | :------ | :-------------- | :---------- | :----: |
 | <u>PhD</u> | **Econometrics and Statistics**, supervised by [Paul Schneider](https://sites.google.com/view/paul-schneider) and co-supervised by [Michael Multerer](https://muchip.github.io) | [Università della Svizzera italiana, Lugano, Switzerland](https://www.usi.ch/en) | present <br> <i class="fas fa-long-arrow-alt-up"></i> <br> Jan 2021 |
 | <u>Master</u> | **Mathematics and Computing**, supervised by [Subhamay Saha](https://sites.google.com/site/sahasubhamay86/)| [Indian Institute of Technology, Guwahati, India](https://www.iitg.ac.in/) | June 2019 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> July 2017 |
-| <u>Bachelor</u>   | **Mathematics major with Statistics and Computer Science** | [Ramakrishna Mission Vidyamandira, Belur, India](https://sites.google.com/view/vidyamandira-math) | July 2017 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> July 2014 |
+| <u>Bachelor</u>   | **Mathematics Major with Statistics and Computer Science** | [Ramakrishna Mission Vidyamandira, Belur, India](https://sites.google.com/view/vidyamandira-math) | July 2017 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> July 2014 |
 
 
 ## Research Visits
-- Visiting Student Researcher (*hosted by [Markus Pelger](https://mpelger.people.stanford.edu/)*) at [AFTLabs, Stanford University](https://fintech.stanford.edu/), California, USA; Sept 2025 - Dec 2025.
+- Visiting Student Researcher *hosted by [Markus Pelger](https://mpelger.people.stanford.edu/)* at [AFTLabs, Stanford University](https://fintech.stanford.edu/), California, USA; Sept 2025 - Dec 2025.
 
 
 ## Professional Experience
@@ -55,7 +55,7 @@ title_separator: ""     # prevents "Page | Site" patterns
   
 - [**SFI (Swiss Finance Institute) Research Days**](https://www.sfi.ch/en/faculty/research-days), Gerzensee, Switzerland; June 2022.
 
-- [**Conference on Probability and Stochastic Processes**](https://www.isid.ac.in/~rlkconf2022/program.php), Indian Statistical Institute, Kolkata, India; Mar 2022.
+- [**Conference on Probability and Stochastic Processes**](https://www.isid.ac.in/~rlkconf2022/program.php), Indian Statistical Institute, Kolkata, India, held online; Mar 2022.
 
 
 ## Professional Training and Workshops
