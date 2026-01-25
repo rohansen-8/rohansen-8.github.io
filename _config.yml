@@ -1,6 +1,6 @@
 title: "Rohan Sen"
 title_separator: ""     # prevents "Page | Site" patterns
-description: "PhD candidate in Econometrics and Statistics at USI Lugano. Research in kernel methods, financial econometrics, statistical learning, financial econometrics."
+description: "PhD in Econometrics and Statistics at USI Lugano. Research in kernel methods, financial econometrics, statistical learning."
 url: "https://rohansen-8.github.io"
 baseurl: ""     # important for user sites
 theme: jekyll-theme-minimal
