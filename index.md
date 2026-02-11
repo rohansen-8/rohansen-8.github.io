@@ -8,11 +8,9 @@ title_separator: ""     # prevents "Page | Site" patterns
 
 | Degree | Field of study | University | Year |
 | :------ | :-------------- | :---------- | :----: |
-| <u>PhD</u> | **Econometrics and Statistics**, supervised by [Paul Schneider](https://sites.google.com/view/paul-schneider) and co-supervised by [Michael Multerer](https://muchip.github.io) <br> 
-Thesis: [*On applications of kernel methods to financial econometrics*](https://n2t.net/ark:/12658/srd1334463)
-| [Università della Svizzera italiana, Lugano, Switzerland](https://www.usi.ch/en) | Jan 2026 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> Jan 2021 |
+| <u>PhD</u> | **Econometrics and Statistics**, supervised by [Paul Schneider](https://sites.google.com/view/paul-schneider) and co-supervised by [Michael Multerer](https://muchip.github.io)<br>Thesis: [*On applications of kernel methods to financial econometrics*](https://n2t.net/ark:/12658/srd1334463) | [Università della Svizzera italiana, Lugano, Switzerland](https://www.usi.ch/en) | Jan 2026 <br> <i class="fas fa-long-arrow-alt-up"></i> <br> Jan 2021 |
 | <u>Master</u> | **Mathematics and Computing**, supervised by [Subhamay Saha](https://sites.google.com/site/sahasubhamay86/)| [Indian Institute of Technology, Guwahati, India](https://www.iitg.ac.in/) | June 2019 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> July 2017 |
-| <u>Bachelor</u>   | **Mathematics Major with Statistics and Computer Science** | [Ramakrishna Mission Vidyamandira, Belur, India](https://sites.google.com/view/vidyamandira-math) | July 2017 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> July 2014 |
+| <u>Bachelor</u> | **Mathematics Major with Statistics and Computer Science** | [Ramakrishna Mission Vidyamandira, Belur, India](https://sites.google.com/view/vidyamandira-math) | July 2017 <br> <i class="fas fa-long-arrow-alt-up" style="text-align: center;"></i> <br> July 2014 |
 
 
 ## Research Visits
