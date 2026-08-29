@@ -13,7 +13,7 @@
       "@type": "Person",
       "name": "Rohan Sen",
       "affiliation": {
-        "@type": "CollegeOrUniversity",
+        "@type": "Organization",
         "name": "{{ site.profile_affiliation }}"
       },
       "url": "{{ site.url }}/",
@@ -43,12 +43,6 @@
         {% if site.profile_picture %}
           <img class="profile-photo" src="{{ site.profile_picture | absolute_url }}" alt="Profile picture of Rohan Sen" />
         {% endif %}
-
-        <div class="profile-summary">
-          <p>{{ site.profile_title }}</p>
-          <p><a href="{{ site.profile_affiliation_url }}">{{ site.profile_affiliation }}</a></p>
-          <p><strong>Research:</strong> {{ site.research_interests }}</p>
-        </div>
 
         <div class="profile-links">
           <a href="https://orcid.org/0000-0002-0975-9756" title="ORCID">

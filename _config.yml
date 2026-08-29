@@ -1,6 +1,6 @@
 title: "Rohan Sen"
 title_separator: ""
-description: "Research in kernel methods, financial econometrics, and statistical learning."
+description: "Postdoctoral researcher at FinStaR, HKUST. Research in kernel methods, financial econometrics, and statistical learning."
 url: "https://rohansen-8.github.io"
 baseurl: ""
 theme: jekyll-theme-minimal
@@ -13,7 +13,7 @@ author:
   name: "Rohan Sen"
 
 profile_picture: assets/img/photo.jpeg
-profile_title: "PhD in Econometrics and Statistics"
-profile_affiliation: "Università della Svizzera italiana (USI)"
-profile_affiliation_url: "https://www.usi.ch/en"
+profile_title: "Postdoctoral Researcher"
+profile_affiliation: "FinStaR, HKUST"
+profile_affiliation_url: "https://finstar.hk/#home"
 research_interests: "Kernel Methods, Financial Econometrics, Statistical Learning"

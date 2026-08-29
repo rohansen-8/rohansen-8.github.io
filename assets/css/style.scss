@@ -3,8 +3,40 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 1.55;
+}
+
+.wrapper {
+  width: 1000px;
+}
+
+header {
+  width: 280px;
+}
+
+section {
+  width: 650px;
+}
+
 h1 {
-  font-size: 34px;
+  font-size: 38px;
+  margin-bottom: 18px;
+}
+
+h2 {
+  font-size: 26px;
+  margin-bottom: 18px;
+}
+
+h3 {
+  font-size: 21px;
+}
+
+p {
+  margin: 0 0 16px;
 }
 
 strong {
@@ -13,7 +45,7 @@ strong {
 }
 
 ul {
-  padding-left: 1.2em;
+  padding-left: 1.25em;
 }
 
 .name-link {
@@ -28,26 +60,25 @@ ul {
 }
 
 .profile-photo {
-  width: 190px;
+  width: 240px;
   height: auto;
-  margin-bottom: 12px;
-}
-
-.profile-summary p {
-  margin: 0 0 7px;
+  margin-bottom: 16px;
 }
 
 .site-nav {
-  margin: 0 0 28px;
-  padding-bottom: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+  margin: 0 0 32px;
+  padding-bottom: 12px;
   border-bottom: 1px solid #e5e5e5;
-  white-space: nowrap;
+  font-size: 17px;
 }
 
 .site-nav a {
   display: inline-block;
-  margin-right: 18px;
   font-weight: 600;
+  white-space: nowrap;
 }
 
 .site-nav a.active {
@@ -55,12 +86,13 @@ ul {
 }
 
 .profile-links {
-  margin-top: 12px;
+  margin-top: 0;
 }
 
 .profile-links a {
   display: block;
-  padding: 2px 0;
+  padding: 3px 0;
+  font-size: 17px;
 }
 
 section > h2:first-child {
@@ -68,19 +100,38 @@ section > h2:first-child {
 }
 
 section li {
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 
 @media print, screen and (max-width: 960px) {
-  footer {
-    text-align: center;
+  body {
+    padding: 30px;
+  }
+
+  .wrapper {
+    width: auto;
+    margin: 0;
+  }
+
+  header,
+  section {
+    float: none;
+    position: static;
+    width: auto;
   }
 
   header {
+    max-width: 300px;
+    margin: 0 auto 32px;
     padding: 0;
-    width: 270px;
-    margin-left: auto;
-    margin-right: auto;
+  }
+
+  .profile-photo {
+    width: 240px;
+  }
+
+  footer {
+    text-align: center;
   }
 }
 
