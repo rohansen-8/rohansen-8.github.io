@@ -5,10 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {%- comment -%} SEO meta tags (jekyll-seo-tag) {%- endcomment -%}
     {% seo %}
 
-    {%- comment -%} Structured data to help Google connect this site to you {%- endcomment -%}
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -16,13 +14,12 @@
       "name": "Rohan Sen",
       "affiliation": {
         "@type": "CollegeOrUniversity",
-        "name": "Università della Svizzera italiana (USI Lugano)"
+        "name": "{{ site.profile_affiliation }}"
       },
-      "jobTitle": "PhD Candidate",
-      "url": "https://rohansen-8.github.io/",
+      "url": "{{ site.url }}/",
       "email": "mailto:rohan.sen@usi.ch",
       "sameAs": [
-        "https://orcid.org/0000-0002-0975-9756"
+        "https://orcid.org/0000-0002-0975-9756",
         "https://scholar.google.com/citations?user=iKs5B5EAAAAJ",
         "https://ch.linkedin.com/in/rohan-sen",
         "https://github.com/rohansen-8"
@@ -41,36 +38,47 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>Rohan Sen</h1>
+        <h1><a class="name-link" href="{{ '/' | relative_url }}">Rohan Sen</a></h1>
 
         {% if site.profile_picture %}
-          <img src="{{ site.profile_picture | absolute_url }}" alt="Profile picture of Rohan Sen" />
+          <img class="profile-photo" src="{{ site.profile_picture | absolute_url }}" alt="Profile picture of Rohan Sen" />
         {% endif %}
 
-        <p>PhD in Econometrics and Statistics at Università della Svizzera italiana (USI).</p>
+        <div class="profile-summary">
+          <p>{{ site.profile_title }}</p>
+          <p><a href="{{ site.profile_affiliation_url }}">{{ site.profile_affiliation }}</a></p>
+          <p><strong>Research:</strong> {{ site.research_interests }}</p>
+        </div>
 
-        <p>Research Interests: Kernel Methods, Financial Econometrics, Statistical Learning.</p>
-
-        <p class="view">
-          <a href="https://orcid.org/0000-0002-0975-9756" title="ORCiD">
-            <i class="fab fa-orcid" aria-hidden="true"></i> ORCiD
-          </a><br>
+        <div class="profile-links">
+          <a href="https://orcid.org/0000-0002-0975-9756" title="ORCID">
+            <i class="fab fa-orcid" aria-hidden="true"></i> ORCID
+          </a>
           <a href="https://scholar.google.com/citations?user=iKs5B5EAAAAJ&hl=en" title="Google Scholar">
             <i class="fa fa-google" aria-hidden="true"></i> Google Scholar
-          </a><br>
-          <a href="https://ch.linkedin.com/in/rohan-sen" title="LinkedIn profile">
-            <i class="fab fa-linkedin"></i> LinkedIn
-          </a><br>
-          <a href="mailto:rohan.sen@usi.ch" title="Email Rohan">
-            <i class="fas fa-envelope"></i> rohan.sen@usi.ch
-          </a><br>
-          <a href="https://github.com/rohansen-8" title="GitHub profile">
-            <i class="fa fa-github"></i> GitHub
-          </a><br>
-          <a href="{{ '/assets/CV.pdf' | absolute_url }}" title="Download CV (PDF)">
-            <i class="fas fa-file-download"></i> Download CV (PDF)
           </a>
-        </p>
+          <a href="https://ch.linkedin.com/in/rohan-sen" title="LinkedIn profile">
+            <i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn
+          </a>
+          <a href="mailto:rohan.sen@usi.ch" title="Email Rohan Sen">
+            <i class="fas fa-envelope" aria-hidden="true"></i> Email
+          </a>
+          <a href="https://github.com/rohansen-8" title="GitHub profile">
+            <i class="fa fa-github" aria-hidden="true"></i> GitHub
+          </a>
+          <a href="{{ '/assets/CV.pdf' | absolute_url }}" title="Curriculum vitae (PDF)">
+            <i class="fas fa-file-pdf" aria-hidden="true"></i> CV
+          </a>
+        </div>
+
+        <nav class="site-nav" aria-label="Main navigation">
+          <a {% if page.url == '/' %}class="active"{% endif %} href="{{ '/' | relative_url }}">Home</a>
+          <a {% if page.url == '/research/' %}class="active"{% endif %} href="{{ '/research/' | relative_url }}">Research</a>
+          <a {% if page.url == '/teaching/' %}class="active"{% endif %} href="{{ '/teaching/' | relative_url }}">Teaching</a>
+          <a {% if page.url == '/talks/' %}class="active"{% endif %} href="{{ '/talks/' | relative_url }}">Conferences &amp; Talks</a>
+          <a {% if page.url == '/workshops/' %}class="active"{% endif %} href="{{ '/workshops/' | relative_url }}">Workshops</a>
+          <a {% if page.url == '/background/' %}class="active"{% endif %} href="{{ '/background/' | relative_url }}">Background</a>
+        </nav>
       </header>
 
       <section>
