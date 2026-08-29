@@ -1,3 +1,6 @@
+
+
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-US' }}">
   <head>
@@ -71,18 +74,17 @@
           </a>
         </div>
 
-      </header>
-
-      <section>
         <nav class="site-nav" aria-label="Main navigation">
-          <a {% if page.url == '/' %}class="active"{% endif %} href="{{ '/' | relative_url }}">About</a>
+          <a {% if page.url == '/' %}class="active"{% endif %} href="{{ '/' | relative_url }}">Home</a>
           <a {% if page.url == '/research/' %}class="active"{% endif %} href="{{ '/research/' | relative_url }}">Research</a>
           <a {% if page.url == '/teaching/' %}class="active"{% endif %} href="{{ '/teaching/' | relative_url }}">Teaching</a>
           <a {% if page.url == '/talks/' %}class="active"{% endif %} href="{{ '/talks/' | relative_url }}">Conferences &amp; Talks</a>
           <a {% if page.url == '/workshops/' %}class="active"{% endif %} href="{{ '/workshops/' | relative_url }}">Workshops</a>
           <a {% if page.url == '/background/' %}class="active"{% endif %} href="{{ '/background/' | relative_url }}">Background</a>
         </nav>
+      </header>
 
+      <section>
         {{ content }}
       </section>
     </div>

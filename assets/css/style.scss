@@ -38,15 +38,15 @@ ul {
 }
 
 .site-nav {
-  margin: 18px 0 16px;
-  padding: 11px 0;
-  border-top: 1px solid #e5e5e5;
+  margin: 0 0 28px;
+  padding-bottom: 10px;
   border-bottom: 1px solid #e5e5e5;
+  white-space: nowrap;
 }
 
 .site-nav a {
-  display: block;
-  padding: 3px 0;
+  display: inline-block;
+  margin-right: 18px;
   font-weight: 600;
 }
 
