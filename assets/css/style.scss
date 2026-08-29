@@ -4,9 +4,21 @@
 @import "{{ site.theme }}";
 
 body {
-  font-family: "Times New Roman", Times, serif;
   font-size: 21px;
   line-height: 1.65;
+  color: #333;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #000;
+  text-decoration: none;
+  font-weight: inherit;
 }
 
 .wrapper {
