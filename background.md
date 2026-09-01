@@ -9,14 +9,14 @@ permalink: /background/
 ### Education
 
 **PhD in Econometrics and Statistics**  
-[Università della Svizzera italiana (USI)](https://www.usi.ch/en), Lugano, Switzerland, Jan 2021–Jan 2026  
+[Università della Svizzera italiana (USI)](https://www.usi.ch/en), Lugano, Switzerland, Jan 2021–Jan 2026.  
 Thesis: [*On applications of kernel methods to financial econometrics*](https://n2t.net/ark:/12658/srd1334463)
 
 **Master in Mathematics and Computing**  
-[Indian Institute of Technology Guwahati](https://www.iitg.ac.in/), India, 2017–2019
+[Indian Institute of Technology Guwahati](https://www.iitg.ac.in/), Assam, India, Jul 2017–May 2019.
 
 **Bachelor in Mathematics**, with Statistics and Computer Science  
-[Ramakrishna Mission Vidyamandira](https://sites.google.com/view/vidyamandira-math), Belur, India, 2014–2017
+[Ramakrishna Mission Vidyamandira](https://sites.google.com/view/vidyamandira-math), West Bengal, India, Jul 2014–May 2017.
 
 ### Research visits
 

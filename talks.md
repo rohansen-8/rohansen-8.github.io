@@ -6,6 +6,10 @@ permalink: /talks/
 
 ## Conferences and Talks
 
+- [**3rd IAS-SBM Joint Workshop on Financial Econometrics in the Big Data Era**](http://ias.ust.hk/events/202608fbe/home.php), Hong Kong University of Science and Technology, Hong Kong; Aug 2026. [slides]({{ '/assets/slides/HKUST2026.pdf' | relative_url }})
+
+- [**18th Annual SoFiE Conference**](https://fba.um.edu.mo/sofie2026/), University of Macau, Macau; Jun 2026. [slides]({{ '/assets/slides/SoFiE2026.pdf' | relative_url }})
+
 - [**19th International Joint Conference CFE-CMStatistics 2025**](https://www.cmstatistics.org/CFECMStatistics2025/), London, UK; Dec 2025. [slides]({{ '/assets/slides/CFE-CMS2025.pdf' | relative_url }})
 
 - [**2nd IAS-SBM Joint Workshop on Financial Econometrics in the Big Data Era**](https://calendar.hkust.edu.hk/events/2nd-hkust-ias-sbm-joint-workshop-financial-econometrics-big-data-era), Hong Kong University of Science and Technology, Hong Kong; Aug 2025. [slides]({{ '/assets/slides/HKUST2025.pdf' | relative_url }})
